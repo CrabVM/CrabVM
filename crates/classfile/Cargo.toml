@@ -1,0 +1,6 @@
+[package]
+name = "crabvm-classfile"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

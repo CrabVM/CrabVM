@@ -3,5 +3,13 @@
 version = 3
 
 [[package]]
-name = "crabvm"
+name = "crabvm-classfile"
+version = "0.0.1"
+
+[[package]]
+name = "crabvm-cli"
+version = "0.0.1"
+
+[[package]]
+name = "crabvm-mutf8"
 version = "0.0.1"

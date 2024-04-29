@@ -1,0 +1,6 @@
+[package]
+name = "crabvm-mutf8"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
